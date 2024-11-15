@@ -1,0 +1,10 @@
+
+Symbol table:
+
+Variable Name  Location   Type   Line Numbers
+-------------  --------   ----     ------------
+a              2         inteiro   2    8   10   12   13   14   16   17   18   20   21   22   23   24   26   29   30 
+b              1         inteiro   1    9 
+c              4         real   4    7 
+d              3         real   3    6 
+i              0         inteiro   1    5    9   10   11   12   14   15   16   18   19   20   22   24   28   30 
